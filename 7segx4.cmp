@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sat 23 Nov 2013 20:10:17 CET
+
+BeginCmp
+TimeStamp = /5290DCE3;
+Reference = AFF1;
+ValeurCmp = 7SEGMENTLED;
+IdModule  = sc23-kingbright;
+EndCmp
+
+BeginCmp
+TimeStamp = /5290DD8C;
+Reference = AFF2;
+ValeurCmp = 7SEGMENTLED;
+IdModule  = sc23-kingbright;
+EndCmp
+
+BeginCmp
+TimeStamp = /5290DD9B;
+Reference = AFF3;
+ValeurCmp = 7SEGMENTLED;
+IdModule  = sc23-kingbright;
+EndCmp
+
+BeginCmp
+TimeStamp = /5290DDAA;
+Reference = AFF4;
+ValeurCmp = 7SEGMENTLED;
+IdModule  = sc23-kingbright;
+EndCmp
+
+BeginCmp
+TimeStamp = /5290DD7D;
+Reference = x1;
+ValeurCmp = HEADER2X7;
+IdModule  = header2x7;
+EndCmp
+
+EndListe
