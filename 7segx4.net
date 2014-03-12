@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/stinkydiver/kicadprj/7segx4/7segx4.sch)
-    (date "Tue 11 Mar 2014 20:45:48 CET")
+    (date "Wed 12 Mar 2014 22:05:03 CET")
     (tool "eeschema (2013-mar-13)-testing"))
   (components
     (comp (ref AFF1)
